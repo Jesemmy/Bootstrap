@@ -1,0 +1,42 @@
+<!-- <h1 class="bg-danger p-5 w-25">Welcome to bootstrap</h1> -->
+    <!-- <h1 class="bg-secondary border border-primary p-1 p-sm - 3 p-md - 5">Welcome to bootstrap</h1> -->
+    <!-- <h1 class="bg-secondary border border-primary m-1 m-sm - 3 m-md - 20 w-25 position-absolute top-50 translate-middle top-50 start-50" >Welcome to bootstrap</h1> -->
+ 
+    <button class="position-fixed top-50">click</button>
+
+
+
+    <!-- <p>Lorem, ipsum dolor</p> -->
+    <p class="display-1 fst-italic d-inline ">Lorem, ipsum dolor</p>
+
+
+    <nav class="d-flex justify-content-between">
+        <a href="">Logo</a>
+
+        <ul>
+
+        </ul>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2 bg-danger">1</div>
+            <div class="col-2 bg-success">2</div>
+            <div class="col-2 bg-warning">3</div>
+
+
+        </div>
+
+    </div>
+
+
+    <div  class="container">
+        <div class="row">
+            <div class="col-12 col-md-4"><img src="./images/download (1).jpg" alt=""></div>
+            <div class="col-12 col-md-4"><img src="./images/download.jpg" alt=""></div>
+            <div class="col-12 col-md-4="><img src="./images/downloadjjj.jpg" alt=""></div>
+
+
+        </div>
+
+    </div>

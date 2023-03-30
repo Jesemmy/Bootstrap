@@ -1,0 +1,45 @@
+/* .loochi{
+    margin: 2rem;
+    padding: 2rem;
+    justify-content: center;
+    color: red;
+    text-align: center;
+}
+
+.i{
+    justify-content: center;
+    background-color: red;
+    color: chartreuse;
+    text-align: center;
+    display: flex;
+}
+
+.nav{
+    margin: 0.5rem;
+    padding: 2rem;
+    background-color: black;
+    color: beige;
+    text-align: right;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav #contact{
+    text-align: left;
+    color: chartreuse;
+    justify-content: left;
+    display: flex;
+} */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner .carousel-inner img{
+    height: 70vh;
+    object-fit: fill;
+}
